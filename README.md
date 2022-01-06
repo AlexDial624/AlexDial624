@@ -2,7 +2,7 @@
 
 I've built several google sheet programs designed to translate data into readable and useful information. Recently, I've discovered there's a career that aligns with this passion!
 
-Currently, I'm focused on my cerificate courses and am also independently completing a [Python for Data Science and Machine Learning Bootcamp Udemy](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) course.
+Currently, I'm focused on my cerificate courses and completing a [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) Udemy course.
 
 
 
