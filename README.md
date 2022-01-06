@@ -1,3 +1,18 @@
+👋 Hello! I'm Alex, a second-year student at The University of Texas at Austin pursuing Mechanical Engineering with a certificate in Elements of Computing. I'm passionate about leveraging technology to better understand our world and do productive things in it.
+
+I've built several google sheet programs designed to translate data into readable and useful information. Recently, I've discovered there's a career that aligns with this passion!
+
+Currently, I'm focused on my cerificate courses and am also independently completing a Python for Data Science and Machine Learning Bootcamp Udemy(Python for Data Science and Machine Learning Bootcamp
+) course.
+
+
+
+
+📫 Feel free to connect or message me at AlexDial@utexas.edu
+
+
+
+
 - 👋 Hi, I’m @AlexDial624
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
