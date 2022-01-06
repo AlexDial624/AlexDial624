@@ -8,4 +8,4 @@
 
 👀 This summer I'm seeking an internship that will challenge me and enable me to contribute to something meaningful.
 
-📫 Feel free to reach me at AlexDial@utexas.edu
+📫 Feel free to reach me at AlexDial@utexas.edu!
