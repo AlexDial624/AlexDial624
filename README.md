@@ -6,6 +6,6 @@
 
 🌱 I'm looking to grow my knowledge of data science and machine learning, and I intend on eventually competing in the [MineRL](https://minerl.io/diamond/) challenge aimed at developing various aspects of artificial intelligence within Minecraft, engaging with challenges like environments with lots of hierarchy, tasks where rewards are sparse, and tasks where rewards are hard to define.
 
-👀 This summer I'm seeking an internship that will challenge me and enable me to contribute to something meaningful.
+🚜 This summer I'll be interning at John Deere, where I’ll be working with data science and data engineering to create solutions for their smart connected factory initiatives.
 
 📫 Feel free to reach me at AlexDial@utexas.edu!
