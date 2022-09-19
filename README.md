@@ -1,4 +1,4 @@
-👋 Hello! I'm Alex, a second-year student at The University of Texas at Austin pursuing Mechanical Engineering with a certificate in Elements of Computing. I'm passionate about leveraging technology to better understand our world and do productive things in it.
+👋 Hello! I'm Alex, a third-year student at The University of Texas at Austin studying MechE with a certificate in Computer Science and a certificate in Data Sciences. I'm passionate about leveraging technology to better understand our world and do productive things in it.
 
 💼 I've built several google sheet programs designed to translate data into readable and useful information. Recently, I've discovered there's a career that aligns with this passion!
 
